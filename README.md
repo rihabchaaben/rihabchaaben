@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rihabchaaben
-- 👀 I’m interested in IT in Full stack developpement
-- 🌱 I’m currently learning Flutter and spring boot frameworks
+- 👀 I’m interested in IT QA and web Developpement Engineering
+- 🌱 I’m currently working as Automated QA software Engineer
 
 <!---
 rihabchaaben/rihabchaaben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
